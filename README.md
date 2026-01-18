@@ -1,8 +1,6 @@
 # 🐛 AI Bug Triage Agent
 **with AutoGen Multi-Agent System**
 
-🌐 **See the Live Application**: [https://ai-bug-triage-agent.vercel.app/](https://ai-bug-triage-agent.vercel.app/)
-
 > **Automate bug triage with AI-powered agents. Get severity classification, reproduction steps, and fix suggestions—instantly and accurately.** ⚡
 
 ---
@@ -221,14 +219,6 @@
 - **Vercel** - For frontend deployment
 - **shadcn/ui** - For beautiful components
 - **Recharts** - For data visualization
-
----
-
-## 📞 Support
-
-- 📧 **Email**: support@ai-bug-triage-agent.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-bug-triage-agent/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-bug-triage-agent/discussions)
 
 ---
 
